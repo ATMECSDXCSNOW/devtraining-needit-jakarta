@@ -42,7 +42,6 @@
 	"disk8SizeGB": "${disk8SizeGB}",&#13;
 	"disk9SizeGB": "${disk9SizeGB}",&#13;
 	"diskTotal":"${diskTotal}",&#13;
-	"diskCount":"5",&#13;
 	&#13;
 	"NIC0Connection":"${NIC0Connection}",&#13;
 	"NIC1Connection":"${NIC1Connection}",&#13;
@@ -64,7 +63,6 @@
 	"OutageDay":"${OutageDay}",&#13;
 	"OutageWindow":"${OutageTime}",&#13;
 	"OSPatchWindow":"${OSPatchDay}-${OSPatchTime}",&#13;
-	"Tags":"${Tags}",&#13;
 	&#13;
 	"firewallEnabled":"${firewallEnabled}",&#13;
 	"vmNsxSecTag1":"${vmNsxSecTag1}",&#13;
@@ -73,12 +71,10 @@
 	"vmNsxSecTag4":"${vmNsxSecTag4}",&#13;
 	"associatedLB":"${associatedLB}",&#13;
 &#13;
-	"PrivilegedUser":"${PrivilagedUsers}",&#13;
 	"CISupportTier":"${CISupportTier}",&#13;
 	"CIImpact":"${CIImpact}",&#13;
 	"enableSRM":"${EnableSRM}",&#13;
 	"OnDemandBackup":"${OnDemandBackup}",&#13;
-	"BusinessInformation":"${BusinessInformation}",&#13;
 	"BillingCode":"${BillingCode}",&#13;
 &#13;
 	"CustomProperty1":"${CustomProperty1}",&#13;
@@ -107,14 +103,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-20 12:54:00</sys_created_on>
         <sys_id>20623c30db2e23001dde0181ca961996</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>uvCore_POST_Deploy</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_rest_message_fn_20623c30db2e23001dde0181ca961996</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-20 12:54:00</sys_updated_on>
+        <sys_updated_on>2019-01-24 09:19:51</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server display_value="usplmid1001">83a391a2db1123001dde0181ca9619a4</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
